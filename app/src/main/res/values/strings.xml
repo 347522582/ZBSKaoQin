@@ -1,0 +1,122 @@
+<resources>
+    <string name="app_name">中本硕机电</string>
+    <string name="copyright">Copyright © 2019 ZBS Co., LTD. All rights reserved.</string>
+    <string name="click_again_exit">再按一次退出程序</string>
+    <string name="loading">加载中…</string>
+    <string name="remote_login">您的账号已在其他设备登录</string>
+    <string name="Exit">退出</string>
+    <string name="LoginAgain">重新登录</string>
+
+    <string name="input_phoneNumber">输入手机号</string>
+    <string name="input_password">输入密码</string>
+    <string name="InputPassword">输入密码（6&#8211;20位）</string>
+    <string name="ConfirmPassword">确认密码（6&#8211;20位）</string>
+    <string name="ForgetPassword">忘记密码</string>
+    <string name="NewUserRegister">新用户注册</string>
+    <string name="HaveAccount">已有账号</string>
+    <string name="ReadRegisterProtocol">我已阅读并同意《用户注册协议》</string>
+    <string name="Login">登录</string>
+    <string name="register">注册</string>
+    <string name="RegistrationProtocol">用户注册协议</string>
+
+    <string name="SetHeadPortrait">设置头像</string>
+    <string name="UploadHeadPortrait">请上传头像</string>
+    <string name="NetworkUnavailable">当前网络不可用，请检查网络</string>
+    <string name="uploading">上传中</string>
+    <string name="UploadFailed">上传失败</string>
+    <string name="UploadSuccess">上传成功</string>
+    <string name="ServerError">服务器异常，上传失败</string>
+    <string name="UnknownError">未知错误，上传失败</string>
+    <string name="CutError">无法剪切选择的图片</string>
+    <string name="EnterPhoneNumber">请输入手机号</string>
+    <string name="EnterPassword">请输入密码</string>
+    <string name="LessThanSixDigits">密码长度小于6位</string>
+    <string name="EnterPasswordAgain">请再次输入密码</string>
+    <string name="InconsistentPassword">两次输入的密码不一致</string>
+    <string name="LoggingIn">登录中</string>
+    <string name="LogInFailed">登录失败，</string>
+    <string name="Registering">注册中</string>
+    <string name="RegisterFailed">注册失败</string>
+    <string name="RegisteredSuccess">注册成功</string>
+    <string name="updating">更新中</string>
+    <string name="UpdateSuccess">更新成功</string>
+    <string name="UpdateFailed">更新失败</string>
+
+    <string name="camera_pop_camera">相机拍摄</string>
+    <string name="camera_pop_album">从相册选取</string>
+    <string name="camera_pop_cancel">取消</string>
+    <string name="label_ok">确定</string>
+    <string name="permission_title_rationale">权限需求</string>
+    <string name="permission_read_storage_rationale">选择图片时需要读取权限</string>
+    <string name="permission_write_storage_rationale">拍照时需要存储权限</string>
+
+    <string name="reminder_zbs">中本硕友情提示</string>
+    <string name="Cancel">取消</string>
+    <string name="Continue">继续</string>
+    <string name="FloatWindowPermission">您没有打开悬浮窗权限，将接收不到消息推送和弹窗信息，点击这里设置</string>
+    <string name="NotificationPermission">您没有打开通知权限，将不会显示弹窗信息，点击这里设置</string>
+
+    <string name="BasicSettings">基础设置</string>
+    <string name="PersonalInformation">个人信息</string>
+    <string name="LanguageSettings">语言设置</string>
+    <string name="NetworkSettings">网络设置</string>
+    <string name="VoiceServerSetting">语音服务器设置</string>
+    <string name="MessageServerSettings">消息服务器设置</string>
+    <string name="WirelessNetworkSettings">无线网络设置</string>
+    <string name="VersionAndShare">版本与分享</string>
+    <string name="Version">版本查看</string>
+    <string name="VersionUpdate">版本更新</string>
+    <string name="Share">分享给好友</string>
+    <string name="Logout">退出登录</string>
+    <string name="ShareToOthers">分享给他人</string>
+    <string name="ChangeAccount">切换账号</string>
+
+    <string name="VersionCode">版本号</string>
+    <string name="VersionView">版本查看</string>
+    <string name="update_version">版本升级（%1$s）</string>
+    <string name="update_version2" translatable="false">%1$s（%2$s</string>
+    <string name="file_size_m" translatable="false">%1$sM</string>
+    <string name="QrCodeShare">我的专属分享二维码</string>
+    <string name="ShareTo">分享到</string>
+    <string name="GeneratingQRCode">二维码生成中</string>
+    <string name="VersionCodeNo">版 本 号：</string>
+    <string name="ReleaseTime">发布时间：</string>
+    <string name="UpdateLog">更新日志：</string>
+    <string name="Download">下载</string>
+    <string name="Searching">查询中&#8230;</string>
+    <string name="warning_redownload">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;您已经下载过该版本文件，是否直接安装？</string>
+    <string name="CurrentVersion">当前版本：</string>
+    <string name="LatestVersion">最新版本：</string>
+    <string name="Later">以后再说</string>
+    <string name="UpdateNow">现在更新</string>
+    <string name="DownloadAgain">重新下载</string>
+    <string name="InstallDirectly">直接安装</string>
+    <string name="Downloaded">已下载：</string>
+    <string name="TotalSize">总大小：</string>
+    <string name="YourAppIsTheLatestVersion">您的软件是最新版本</string>
+
+    <string name="Name">姓名</string>
+    <string name="Company">单位</string>
+    <string name="Department">部门</string>
+    <string name="TypeInName">请输入姓名</string>
+    <string name="ModifyName">修改姓名</string>
+    <string name="ConfirmModification">确认修改</string>
+    <string name="EnterYorName">请输入姓名</string>
+    <string name="EnterYourCompany">请输入单位</string>
+    <string name="SelectDepartment">请输入选择部门</string>
+    <string name="SelectYourDepartment">— 请选择部门 —</string>
+
+    <string name="ChooseLanguage">语言选择</string>
+    <string name="Save">保存</string>
+    <string name="lan_default">跟随系统</string>
+    <string name="lan_chinese" translatable="false">简体中文</string>
+    <string name="lan_en" translatable="false">English</string>
+    <string name="lan_ja" translatable="false">日本語</string>
+
+    <string name="SaveToGallerySuccessfully">图片已保存到相册</string>
+    <string name="LongPressToSave">（长按图片保存到相册）</string>
+
+    <!--SharedPreferences引用，无需翻译-->
+    <string name="language" translatable="false">language</string>
+
+</resources>
